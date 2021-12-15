@@ -1,0 +1,15 @@
+https://github.com/fialvieira/DataScience.git
+
+git config --global user.name "fialvieira"
+
+git config --global user.email "fialvieira@gmail.com"
+
+git clone https://github.com/fialvieira/DataScience.git
+
+git add procedure_wrk.sql
+
+git commit -m "Esse foi o primeiro commit desse arquivo." procedure_wrk.sql
+
+git push -u origin main
+
+git status
